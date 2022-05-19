@@ -16,6 +16,10 @@ hr {
   margin: 100px auto;
 }
 
+#testimonials {
+  padding: 3% 5%;
+}
+
 .contactMsg {
   width: 40%;
   margin: 40px auto 60px;
